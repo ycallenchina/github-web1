@@ -887,8 +887,8 @@
         "num": 89,
         "date": "2026-07-04",
         "time": "17:00 UTC-4",
-        "team1": "W74",
-        "team2": "W77",
+        "team1": "Paraguay",
+        "team2": "France",
         "ground": "Philadelphia"
       },
       {
@@ -897,8 +897,8 @@
         "num": 90,
         "date": "2026-07-04",
         "time": "12:00 UTC-5",
-        "team1": "W73",
-        "team2": "W75",
+        "team1": "Canada",
+        "team2": "Morocco",
         "ground": "Houston"
       },
       {
@@ -907,8 +907,8 @@
         "num": 91,
         "date": "2026-07-05",
         "time": "16:00 UTC-4",
-        "team1": "W76",
-        "team2": "W78",
+        "team1": "Brazil",
+        "team2": "Norway",
         "ground": "New York/New Jersey (East Rutherford)"
       },
       {
@@ -917,8 +917,8 @@
         "num": 92,
         "date": "2026-07-05",
         "time": "18:00 UTC-6",
-        "team1": "W79",
-        "team2": "W80",
+        "team1": "Mexico",
+        "team2": "England",
         "ground": "Mexico City"
       },
       {
@@ -927,8 +927,8 @@
         "num": 93,
         "date": "2026-07-06",
         "time": "14:00 UTC-5",
-        "team1": "W83",
-        "team2": "W84",
+        "team1": "Portugal",
+        "team2": "Spain",
         "ground": "Dallas (Arlington)"
       },
       {
@@ -937,8 +937,8 @@
         "num": 94,
         "date": "2026-07-06",
         "time": "17:00 UTC-7",
-        "team1": "W81",
-        "team2": "W82",
+        "team1": "USA",
+        "team2": "Belgium",
         "ground": "Seattle"
       },
       {
@@ -947,8 +947,8 @@
         "num": 95,
         "date": "2026-07-07",
         "time": "12:00 UTC-4",
-        "team1": "W86",
-        "team2": "W88",
+        "team1": "Argentina",
+        "team2": "Egypt",
         "ground": "Atlanta"
       },
       {
@@ -957,8 +957,8 @@
         "num": 96,
         "date": "2026-07-07",
         "time": "13:00 UTC-7",
-        "team1": "W85",
-        "team2": "W87",
+        "team1": "Switzerland",
+        "team2": "Colombia",
         "ground": "Vancouver"
       },
       {
@@ -967,8 +967,8 @@
         "num": 97,
         "date": "2026-07-09",
         "time": "16:00 UTC-4",
-        "team1": "W89",
-        "team2": "W90",
+        "team1": "France",
+        "team2": "Morocco",
         "ground": "Boston (Foxborough)"
       },
       {
@@ -977,8 +977,8 @@
         "num": 98,
         "date": "2026-07-10",
         "time": "12:00 UTC-7",
-        "team1": "W93",
-        "team2": "W94",
+        "team1": "Spain",
+        "team2": "Belgium",
         "ground": "Los Angeles (Inglewood)"
       },
       {
@@ -987,8 +987,8 @@
         "num": 99,
         "date": "2026-07-11",
         "time": "17:00 UTC-4",
-        "team1": "W91",
-        "team2": "W92",
+        "team1": "Norway",
+        "team2": "England",
         "ground": "Miami (Miami Gardens)"
       },
       {
@@ -997,8 +997,8 @@
         "num": 100,
         "date": "2026-07-11",
         "time": "20:00 UTC-5",
-        "team1": "W95",
-        "team2": "W96",
+        "team1": "Argentina",
+        "team2": "Switzerland",
         "ground": "Kansas City"
       },
       {
@@ -1007,8 +1007,8 @@
         "num": 101,
         "date": "2026-07-14",
         "time": "14:00 UTC-5",
-        "team1": "W97",
-        "team2": "W98",
+        "team1": "France",
+        "team2": "Spain",
         "ground": "Dallas (Arlington)"
       },
       {
@@ -1017,8 +1017,8 @@
         "num": 102,
         "date": "2026-07-15",
         "time": "15:00 UTC-4",
-        "team1": "W99",
-        "team2": "W100",
+        "team1": "England",
+        "team2": "Argentina",
         "ground": "Atlanta"
       },
       {
@@ -1026,8 +1026,8 @@
         "round": "Match for third place",
         "date": "2026-07-18",
         "time": "17:00 UTC-4",
-        "team1": "L101",
-        "team2": "L102",
+        "team1": "France",
+        "team2": "England",
         "ground": "Miami (Miami Gardens)"
       },
       {
@@ -1035,9 +1035,9 @@
         "round": "Final",
         "date": "2026-07-19",
         "time": "15:00 UTC-4",
-        "team1": "W101",
-        "team2": "W102",
+        "team1": "Spain",
+        "team2": "Argentina",
         "ground": "New York/New Jersey (East Rutherford)"
       }
     ]
-  }
+}
